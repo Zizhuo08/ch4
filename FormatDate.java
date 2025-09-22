@@ -1,4 +1,4 @@
-public class printDate{
+public class FormatDate{
     public static void main(String[] args){
         printAmerican("Tuesday", 16, "September", 2025);
         printEuropean("Tuesday", 16, "September", 2025);
